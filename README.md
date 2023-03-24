@@ -5,12 +5,12 @@ Repositório para exemplos do curso Java básico pela DIO
  - Sistema de uma SmartTV
  - Minha classe _Usando o terminal_
  - About Me _Usando o terminal_
-__ARRAYS__
+###__ARRAYS__
  - Array Multidimensional
  - Consoantes
  - Números aleatórios 
  - Ordem inversa
-__LOOPS__
+###__LOOPS__
  - Fatorial
  - Maior e Média
  - Nome e Idade
