@@ -1,4 +1,4 @@
-# DIO-trilha-Java-basico
+# DIO trilha Java básico
 Repositório para exemplos do curso Java básico pela DIO
 ## O que tem:
  - Tipos de variáveis
