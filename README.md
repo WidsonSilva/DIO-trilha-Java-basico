@@ -6,6 +6,7 @@ Repositório para exemplos do curso Java básico pela DIO
  - Minha classe _Usando o terminal_
  - About Me _Usando o terminal_
  - Atribuição e referência
+ - Nó e Encadeamento
 ### __ARRAYS__
  - Array Multidimensional
  - Consoantes

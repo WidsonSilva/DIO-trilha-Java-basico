@@ -26,6 +26,5 @@ public class Main {
 
         //no1 aponta para o no2 que aponta para o no3 que aponta para o no4 que aponta para null
 
-
     }
 }
