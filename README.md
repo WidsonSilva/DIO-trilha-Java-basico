@@ -5,6 +5,7 @@ Repositório para exemplos do curso Java básico pela DIO
  - Sistema de uma SmartTV
  - Minha classe _Usando o terminal_
  - About Me _Usando o terminal_
+ - Atribuição e referência
 ### __ARRAYS__
  - Array Multidimensional
  - Consoantes
