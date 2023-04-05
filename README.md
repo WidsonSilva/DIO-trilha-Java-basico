@@ -8,6 +8,7 @@ Repositório para exemplos do curso Java básico pela DIO
  - Atribuição e referência
  - Nó e Encadeamento
  - Conceito de pilhas
+ - Conceito de filas
 ### __ARRAYS__
  - Array Multidimensional
  - Consoantes
