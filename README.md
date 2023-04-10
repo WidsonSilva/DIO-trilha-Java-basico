@@ -9,6 +9,7 @@ Repositório para exemplos do curso Java básico pela DIO
  - Nó e Encadeamento
  - Conceito de pilhas
  - Conceito de filas
+ - Conceito de listas encadeadas
 ### __ARRAYS__
  - Array Multidimensional
  - Consoantes
