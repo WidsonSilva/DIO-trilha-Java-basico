@@ -10,6 +10,7 @@ Repositório para exemplos do curso Java básico pela DIO
  - Conceito de pilhas
  - Conceito de filas
  - Conceito de listas encadeadas
+ - Conceito de listas duplamente encadeadas
 ### __ARRAYS__
  - Array Multidimensional
  - Consoantes
