@@ -11,7 +11,8 @@ Repositório para exemplos do curso Java básico pela DIO
  - Conceito de filas
  - Conceito de listas encadeadas
  - Conceito de listas duplamente encadeadas
- - Conceito dde listas circulares
+ - Conceito de listas circulares
+ - Conceito de árvore binária
 ### __ARRAYS__
  - Array Multidimensional
  - Consoantes
