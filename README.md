@@ -12,7 +12,7 @@ Repositório para exemplos do curso Java básico pela DIO
  - Conceito de listas encadeadas
  - Conceito de listas duplamente encadeadas
  - Conceito de listas circulares
- - Conceito de árvore binária [ACESSE](https://github.com/WidsonSilva/DIO-trilha-Java-basico/blob/main/arvore-binaria/src/ArvoreBinaria.java)
+ - Conceito de árvore binária [_acesse_](https://github.com/WidsonSilva/DIO-trilha-Java-basico/blob/main/arvore-binaria/src/ArvoreBinaria.java)
 ### __ARRAYS__
  - Array Multidimensional
  - Consoantes
