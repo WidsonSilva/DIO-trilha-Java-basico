@@ -19,8 +19,8 @@ public class No<T> {
         return proximoNo;
     }
 
-    public void setProximoNo(No<T> priximoNo) {
-        this.proximoNo = priximoNo;
+    public void setProximoNo(No<T> proximoNo) {
+        this.proximoNo = proximoNo;
     }
 
     @Override
